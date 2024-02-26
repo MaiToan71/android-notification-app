@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.devicecontrols.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_browser_default"
+        android:orderInCategory="100"
+        android:title="@string/action_browser_default"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_chrome"
+        android:orderInCategory="100"
+        android:title="@string/action_chrome"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_facebook"
+        android:orderInCategory="100"
+        android:title="@string/action_facebook"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_tiktok"
+        android:orderInCategory="100"
+        android:title="@string/action_tiktok"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_youtube"
+        android:orderInCategory="100"
+        android:title="@string/action_youtube"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_stack"
+        android:orderInCategory="100"
+        android:title="@string/action_stack"
+        app:showAsAction="never" />
+</menu>
